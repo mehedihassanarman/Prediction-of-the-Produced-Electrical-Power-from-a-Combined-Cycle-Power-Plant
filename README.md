@@ -7,3 +7,5 @@ The dataset used in this project has been widely adopted in machine learning res
 - Provide insights into which environmental factors most affect power output.
 - Help power plant engineers make informed decisions using data-driven insights.
 - Serve as a case study in applying machine learning to energy systems.
+
+![image.png]([https://github.com/mehedihassanarman/Operating-Software-for-Power-Distribution-Systems/blob/main/Project%20Image/Normal%20Operation%20Mode.png](https://github.com/mehedihassanarman/Prediction-of-the-Produced-Electrical-Power-from-a-Combined-Cycle-Power-Plant/tree/main/Image))
