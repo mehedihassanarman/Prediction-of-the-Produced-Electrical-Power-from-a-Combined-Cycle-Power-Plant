@@ -8,4 +8,4 @@ The dataset used in this project has been widely adopted in machine learning res
 - Help power plant engineers make informed decisions using data-driven insights.
 - Serve as a case study in applying machine learning to energy systems.
 
-![image.png](https://github.com/mehedihassanarman/Prediction-of-the-Produced-Electrical-Power-from-a-Combined-Cycle-Power-Plant/tree/main/Image)
+![image.png](https://github.com/mehedihassanarman/Prediction-of-the-Produced-Electrical-Power-from-a-Combined-Cycle-Power-Plant/blob/main/Image/image.png)
