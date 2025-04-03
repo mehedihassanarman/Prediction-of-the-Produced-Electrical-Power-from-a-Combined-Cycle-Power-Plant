@@ -7,3 +7,12 @@ The dataset used in this project has been widely adopted in machine learning res
 - Serve as a case study in applying machine learning to energy systems.
 
 ![image.png](https://github.com/mehedihassanarman/Prediction-of-the-Produced-Electrical-Power-from-a-Combined-Cycle-Power-Plant/blob/main/Image/image.png)
+
+The project is divided into two key parts:
+
+1. _Hypothesis Testing_:
+- To determine the average value of the ambient temperature and understand its behavior over time.
+
+2. _Regression Modeling_:
+- To study the influence of internal parameters (temperature, pressure, humidity, vacuum) on the net electrical output.
+- Build and evaluate regression models to predict energy production.
