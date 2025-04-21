@@ -17,3 +17,5 @@ The dataset used in this project has been widely adopted in machine learning res
 - Provide insights into which environmental factors most affect power output.
 - Help power plant engineers make informed decisions using data-driven insights.
 - Serve as a case study in applying machine learning to energy systems.
+
+The dataset was sourced from [Kaggle](https://www.kaggle.com/code/ibrahimkaratas/regression-for-combined-cycle-power-plant)
